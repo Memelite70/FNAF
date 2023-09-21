@@ -9,7 +9,7 @@ const backlinksList= [{
   link: "https://slopegame.gitlab.io/run-games.html",
   text: "RUN",
 }, {
-  link: "https://ubg98.github.io/FNAF/",
+  link: "https://ubg98.github.io/FNAF2/",
   text: "FNAF2",
 },];
 
